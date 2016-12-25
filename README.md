@@ -15,7 +15,7 @@ Userscript that adds a [DuckDuckGo bang](https://duckduckgo.com/bang) as local s
 ## Usage
 
 ```
-:spawn --userscript ripbang {bang}
+:spawn --userscript ripbang [bang]...
 
 ```
 
